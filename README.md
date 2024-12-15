@@ -21,5 +21,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- [Linkedin](https://www.linkedin.com/in/monica-hegde-6b14b2b5/)
