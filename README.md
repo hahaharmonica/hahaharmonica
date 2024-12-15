@@ -11,7 +11,7 @@ Hello, I'm Monica. Data Analyst with expertise in data analysis and reporting, q
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/hahaharmonica/portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
