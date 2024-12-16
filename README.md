@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Introducing Myself
+## Hello!
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/hahaharmonica/hahaharmonica/blob/main/assets/Monica%20Hegde.png?raw=true)
 
